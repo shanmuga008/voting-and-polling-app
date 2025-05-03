@@ -1,0 +1,36 @@
+.admin-panel {
+    margin: 20px;
+  }
+  
+  h2, h3 {
+    color: #2c3e50;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    margin-top: 10px;
+    width: 300px;
+    border-radius: 5px;
+  }
+  
+  button[style="margin-left: 10px"] {
+    background-color: red;
+  }
+  
+  button[style="margin-left: 10px"]:hover {
+    background-color: darkred;
+  }
+  
